@@ -1,0 +1,96 @@
+{
+    "version": "0.2",
+    "name": "ReggFIII",
+    "author": "Frederik Skidzun",
+    "characters": [
+        {
+            "row": 0,
+            "column": 0,
+            "character": "ʒ",
+            "keyboard_code": 122
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "character": "Ʒ",
+            "keyboard_code": 90
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "ſ",
+            "keyboard_code": 223,
+            "imageUrl": null
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "ꝛ",
+            "keyboard_code": 60
+        },
+        {
+            "row": 0,
+            "column": 4,
+            "character": "ů"
+        },
+        {
+            "row": 0,
+            "column": 5,
+            "character": "å"
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "character": "‧",
+            "keyboard_code": 46
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "character": "̅ ",
+            "keyboard_code": 43
+        },
+        {
+            "row": 1,
+            "column": 2,
+            "character": "⁄",
+            "keyboard_code": 44
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "character": "*",
+            "keyboard_code": "42"
+        },
+        {
+            "row": 1,
+            "column": 4,
+            "character": "Ꝯ"
+        },
+        {
+            "row": 2,
+            "column": 0,
+            "character": "ˣ"
+        },
+        {
+            "row": 2,
+            "column": 1,
+            "character": "ˡ"
+        },
+        {
+            "row": 2,
+            "column": 2,
+            "character": "ᵒ"
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "character": "ᵉ"
+        },
+        {
+            "row": 2,
+            "column": 4,
+            "character": "ꝰ"
+        }
+    ]
+}
