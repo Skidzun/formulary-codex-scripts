@@ -94,9 +94,11 @@ div[type="regestentext"] origDate {
     -oxy-display-tags: none;
 }
 
-ueberlieferungsTyp::before {
-    content: ": ";
+div[type="ueberlieferung"][ueberlieferungsTyp]::before {
+    content: attr(type) ": " attr(ueberlieferungsTyp);
+    text-transform: capitalize;
     color: gray;
+    margin-right: 5px;
 }
 
 ueberlieferungsTyp {

@@ -11,6 +11,10 @@ div[type="regestentext"]:before {
     content: "Regestentext";
 }
 
+div[type="aussteller"]:before {
+    content: "Aussteller";
+}
+
 div[type="originaldatierung"]:before {
     content: "Originaldatierung";
 }
