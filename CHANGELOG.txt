@@ -5,7 +5,7 @@ http://telotadev.bbaw.de/oxygen/regesta-imperii/update.xml
 ------------------------------------------------------------------------------------------------
 ediarum
 Digitale Arbeitsumgebung für das Akademienvorhaben 
-Regesta Imerii
+Regesta Imperii
 
 Framework (Dokumenttyp Zuordnung) für Oxygen XML 
 
