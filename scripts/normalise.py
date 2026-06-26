@@ -33,6 +33,7 @@ with open (xml_file, "r", encoding="utf8") as f:
 text = text.replace("&#x27;", "'") # fixes a problem with the apostrophe when exporting xml files from eScriptorium
 text = text.replace("&quot;", "\"") # fixes a problem with quotation marks when exporting xml files from eScriptorium
 text = text.replace("ꝛt'", "etc.") # normalises <ꝛt'> to <etc.>
+text = text.replace(" ꝛt ", " etc. ") # normalises <ꝛt> to <etc.>
 text = text.replace("ij", "ii") # normalises Latin numerals
 text = text.replace("t̅ d", "Pfd. Pf.") # normalises diplomatic currency abbreviature
 
