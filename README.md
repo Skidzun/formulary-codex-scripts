@@ -6,11 +6,10 @@ The contents of this repository are provided by the [*Regesta Impoerii- Regesta 
 ## Contents
 dir | file name | description
 ---- | --- | ---
--- | ReggFIII_keyboard.json | virtual keyboard containing the special characters for transcribing according to the Regg.F.III rules
+-- | formulary-virtual_keyboard.json | virtual keyboard for transcribing in eScriptorium
 Jupyter-notebooks | GT-calculator.ipynb | Jupyter notebook for calculating ground truth
 Jupyter-notebooks | trial-normalisation.ipynb | Jupyter notebook for transforming diplomatic transcriptions into graphemic ones
-scripts | htr-calculator.py | Python script for calculating ground truth
-scripts | normalise.py | Python script for transforming diplomatic transcriptions into graphemix ones
+scripts | various | various scripts under development
 
 ## License
 The contents of this repository are licensed under the CC BY-SA 4.0 license.
