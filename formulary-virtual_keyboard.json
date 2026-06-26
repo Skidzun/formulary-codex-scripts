@@ -1,6 +1,6 @@
 {
-    "version": "0.2",
-    "name": "ReggFIII",
+    "version": "1",
+    "name": "formulary-virtual_keyboard",
     "author": "Frederik Skidzun",
     "characters": [
         {
@@ -19,7 +19,7 @@
             "row": 0,
             "column": 2,
             "character": "ſ",
-            "keyboard_code": 223,
+            "keyboard_code": 57,
             "imageUrl": null
         },
         {
@@ -31,12 +31,9 @@
         {
             "row": 0,
             "column": 4,
-            "character": "ů"
-        },
-        {
-            "row": 0,
-            "column": 5,
-            "character": "å"
+            "character": "đ",
+            "keyboard_code": 36,
+            "imageUrl": null
         },
         {
             "row": 1,
@@ -65,7 +62,12 @@
         {
             "row": 1,
             "column": 4,
-            "character": "Ꝯ"
+            "character": "ů"
+        },
+        {
+            "row": 1,
+            "column": 5,
+            "character": "å"
         },
         {
             "row": 2,
@@ -91,6 +93,11 @@
             "row": 2,
             "column": 4,
             "character": "ꝰ"
+        },
+        {
+            "row": 2,
+            "column": 5,
+            "character": "Ꝯ"
         }
     ]
 }
