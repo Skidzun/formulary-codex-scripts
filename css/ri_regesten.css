@@ -153,7 +153,7 @@ bibl {
 
 bibl[type='kurztitel']:after {
     content: url('gfx/title_ref_before.png');
-    link: oxy_concat("http://opac.regesta-imperii.de/lang_de/kurztitelsuche_r.php?kurztitel=") attr(corresp);
+    link: oxy_concat("https://opac.regesta-imperii.de/lang_de/anzeige.php?pk=") attr(corresp);
     padding-left: 0.3em;
 }
 

@@ -2235,7 +2235,7 @@ or ancestor-or-self::persName[parent::head]</String>
 														<serializableOrderedMap>
 															<entry>
 																<String>fragment</String>
-																<String>&lt;bibl xmlns="http://www.tei-c.org/ns/1.0" type="kurztitel" corresp="">&lt;/bibl></String>
+																<String>&lt;bibl xmlns="http://www.tei-c.org/ns/1.0" type="kurztitel" corresp="$$"OPAC-ID einfügen":()$$">&lt;/bibl></String>
 															</entry>
 															<entry>
 																<String>schemaAware</String>
@@ -2244,7 +2244,7 @@ or ancestor-or-self::persName[parent::head]</String>
 														</serializableOrderedMap>
 													</field>
 													<field name="operationID">
-														<String>ro.sync.ecss.extensions.commons.operations.SurroundWithFragmentOperation</String>
+														<String>org.adwmainz.da.extensions.askmore.operations.SurroundWithAnnotatedFragmentOperation</String>
 													</field>
 												</actionMode>
 											</actionMode-array>
@@ -3750,11 +3750,6 @@ or ancestor-or-self::persName[parent::head]</String>
 														<toolbarItem>
 															<field name="actionID">
 																<String>originalort[div]</String>
-															</field>
-														</toolbarItem>
-														<toolbarItem>
-															<field name="actionID">
-																<String>neueUeberlieferung</String>
 															</field>
 														</toolbarItem>
 														<toolbarItem>
