@@ -9,7 +9,12 @@ dir | file name | description
 -- | formulary-virtual_keyboard.json | virtual keyboard for transcribing in eScriptorium
 Jupyter-notebooks | GT-calculator.ipynb | Jupyter notebook for calculating ground truth
 Jupyter-notebooks | trial-normalisation.ipynb | Jupyter notebook for transforming diplomatic transcriptions into graphemic ones
-scripts | various | various scripts under development
+scripts | calculate-ground_truth.py | 
+scripts | clean_csv.py | 
+scripts | extract_headers.py | 
+scripts | extract_textlines.py | 
+scripts | teact-cleaning.py | 
+scripts | tiff-to-jpeg.py | 
 
 ## License
 The contents of this repository are licensed under the CC BY-SA 4.0 license.
